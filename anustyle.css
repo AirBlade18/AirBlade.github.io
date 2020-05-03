@@ -1,0 +1,58 @@
+h2{text-decoration: double;
+text-transform: uppercase;font-family: fantasy;font: outline;
+            font-size: 80px;text-align: center;text-decoration: wavy;color-adjust:rgb(208, 255, 0);
+            background-image: url('http://dncache-mauganscorp.netdna-ssl.com/thumbseg/389/389763-bigthumbnail.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;  
+            background-size: cover;}
+            h1 {font-size: 60px;}
+            ol {margin-left: 20px;}
+    
+    
+    table{text-align:center;
+    margin-left:auto;
+    width:50%;
+    margin-right:auto;
+    font-weight:bold;
+    font-size:23px;
+    font-family:cursive;
+    border:2px solid green;
+    background-color:#a5d949;
+    margin:10px;
+    padding:13px;
+    border-collapse:collapse;}
+    
+    th, td{border:2px solid black;
+    padding:9px;
+    background-color:#a28479}
+    td{border:2px solid black;
+    padding:9px;
+    background-color:#ffdb9b;}
+    #table{margin-left:220px;}
+    .shift{margin-left:220px;}
+                                 button {width:auto;
+                                         background-color:#a5d949}
+                     button:hover{background-color:#a28479}
+    
+                 
+    
+                h2::selection{color:#a5d949;background-color:yellow}
+     p::selection{color:#a5d949;background-color:#a28479}
+    p{font-family: cursive ;font-display:auto;
+    font-size: 20px;}
+    marquee{background-color: darkkhaki;margin-left:200px ;
+    
+width:20%;background-image: url('https://c2.staticflickr.com/6/5253/5394004262_2973302f4c_b.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;;
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+}
+body {background-image: url('https://tse1.mm.bing.net/th?id=OIP.QGe4EU7GoswfMBdumU1zVwHaHa&pid=Api&P=0&w=300&h=300');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;}
+    h1 {font-size: 60px;}
+    ol {margin-left: 20px;}
